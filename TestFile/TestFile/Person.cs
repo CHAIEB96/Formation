@@ -8,6 +8,10 @@ namespace TestFile
 {
     public class Person
     {
+        //test
+        /// <summary>
+        ///
+        /// </summary>
         public string LastName { get; set; }
         public string FirstName { get; set; }
         public string sexe { get; set; }
